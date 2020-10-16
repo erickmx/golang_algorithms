@@ -1,4 +1,4 @@
-package fibonacci
+package main
 
 func Fibonacci(number int64) int64 {
 	if number < 2 {
